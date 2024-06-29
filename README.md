@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timbal5p
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning create Websites
+- 🌱 I’m currently learning to create Websites
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
